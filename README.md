@@ -1,7 +1,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Images](#images)
+* [Image](#image)
 
 ## General info
 This program is a desktop app for downloading audio from diferent websites like youtube among others. The files are saved in the save directory that the program.
